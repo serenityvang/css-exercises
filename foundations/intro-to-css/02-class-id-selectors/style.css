@@ -1,0 +1,34 @@
+.odd-number {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #fa807f;
+}
+
+#blue{
+    font-size: 36px;
+    color: #0000ff; /*blue*/
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+.fourth-element{
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/* To be efficient change the way you do third element and fourth element and create a more generalized class that will handle adjusting fonts to 24px and then use multiple classes in one element 
+
+What i previously had:
+    .third-element{
+        font-size: 24px;
+    }
+     .fourth-element{
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+    }
+
+*/
